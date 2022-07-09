@@ -1,0 +1,8 @@
+# gitignore file for Movies-ETL repository
+# hashtags denote comments
+
+# we want to exclude the csv files
+.csv
+
+# also exclude the config file
+config
