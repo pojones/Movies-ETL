@@ -12,3 +12,7 @@ The goal of this analysis was to create a data pipeline that extracts, transform
 -	Once the dataframes are cleaned, they are merged.
 ## ETL_create_database
 -	This final function loads the merged and cleaned data to tables in a SQL database. 
+
+![movies count](https://github.com/pojones/Movies-ETL/blob/1a45121f6c0803c7af81b1e87ae071849b472d76/movies_count.png)
+
+![ratings count](https://github.com/pojones/Movies-ETL/blob/1a45121f6c0803c7af81b1e87ae071849b472d76/rating_count.png)
